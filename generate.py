@@ -7,5 +7,14 @@ with open('raw_data.csv') as csvfile:
         print(row[0])
         print("----")
         with open(row[0], "w") as stmfile:
-            stmfile.write("<!DOCTYPE html>\n<html><body>Blah.</body></html>")
+            stmfile.write(f"""<!DOCTYPE html>
+            <html>
+            <head><title>{row[0]}: STM Registry</title></head>
+            <body>
+            <h1>{row[0]}</h1>
+
+            <p></p>
+
+            </body>
+            </html>""")
     
