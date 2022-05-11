@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-103: STM Registry</title></head>
             <body>
-            <h1>STM-103</h1>
+            <h1>STM-103: DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Chen, Jiachi and Xia, Xin and Lo, David and Grundy, John and Luo, Xiapu and Chen, Ting
+            </pre>
 
             </body>
             </html>

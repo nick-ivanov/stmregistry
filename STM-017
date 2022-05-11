@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-017: STM Registry</title></head>
             <body>
-            <h1>STM-017</h1>
+            <h1>STM-017: ContractFuzzer: Fuzzing Smart Contracts for Vulnerability Detection</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Jiang, Bo and Liu, Ye and Chan, WK
+            </pre>
 
             </body>
             </html>

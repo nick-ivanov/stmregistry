@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-020: STM Registry</title></head>
             <body>
-            <h1>STM-020</h1>
+            <h1>STM-020: SmartCheck: Static Analysis of Ethereum Smart Contracts</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Tikhomirov, Sergei and Voskresenskaya, Ekaterina and Ivanitskiy, Ivan and Takhaviev, Ramil and Marchenko, Evgeny and Alexandrov, Yaroslav
+            </pre>
 
             </body>
             </html>

@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-036: STM Registry</title></head>
             <body>
-            <h1>STM-036</h1>
+            <h1>STM-036: Slither: A Static Analysis Framework For Smart Contracts</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Feist, Josselin and Grieco, Gustavo and Groce, Alex
+            </pre>
 
             </body>
             </html>

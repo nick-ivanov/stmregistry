@@ -2,9 +2,12 @@
             <html>
             <head><title>STM ID: STM Registry</title></head>
             <body>
-            <h1>STM ID</h1>
+            <h1>STM ID: PAPER TITLE</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            PAPER AUTHORS (BIBTEX STYLE)
+            </pre>
 
             </body>
             </html>

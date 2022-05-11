@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-081: STM Registry</title></head>
             <body>
-            <h1>STM-081</h1>
+            <h1>STM-081: EthScope: A Transaction-centric Security Analytics Framework to Detect Malicious Smart Contracts on Ethereum</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Wu, Lei and Wu, Siwei and Zhou, Yajin and Li, Runhuai and Wang, Zhi and Luo, Xiapu and Wang, Cong and Ren, Kui
+            </pre>
 
             </body>
             </html>

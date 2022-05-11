@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-119: STM Registry</title></head>
             <body>
-            <h1>STM-119</h1>
+            <h1>STM-119: WANA: Symbolic Execution of Wasm Bytecode for Cross-Platform Smart Contract Vulnerability Detection</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Wang, Dong and Jiang, Bo and Chan, WK
+            </pre>
 
             </body>
             </html>

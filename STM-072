@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-072: STM Registry</title></head>
             <body>
-            <h1>STM-072</h1>
+            <h1>STM-072: sFuzz: An Efficient Adaptive Fuzzer for Solidity Smart Contracts</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Nguyen, Tai D and Pham, Long H and Sun, Jun and Lin, Yun and Minh, Quang Tran
+            </pre>
 
             </body>
             </html>

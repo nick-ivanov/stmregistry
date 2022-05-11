@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-063: STM Registry</title></head>
             <body>
-            <h1>STM-063</h1>
+            <h1>STM-063: eThor: Practical and Provably Sound Static Analysis of Ethereum Smart Contracts</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Schneidewind, Clara and Grishchenko, Ilya and Scherer, Markus and Maffei, Matteo
+            </pre>
 
             </body>
             </html>

@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-118: STM Registry</title></head>
             <body>
-            <h1>STM-118</h1>
+            <h1>STM-118: Precise Attack Synthesis for Smart Contracts</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Feng, Yu and Torlak, Emina and Bodik, Rastislav
+            </pre>
 
             </body>
             </html>

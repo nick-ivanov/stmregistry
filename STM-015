@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-015: STM Registry</title></head>
             <body>
-            <h1>STM-015</h1>
+            <h1>STM-015: Vandal: A Scalable Security Analysis Framework for Smart Contracts</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Brent, Lexi and Jurisevic, Anton and Kong, Michael and Liu, Eric and Gauthier, Francois and Gramoli, Vincent and Holz, Ralph and Scholz, Bernhard
+            </pre>
 
             </body>
             </html>

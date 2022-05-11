@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-054: STM Registry</title></head>
             <body>
-            <h1>STM-054</h1>
+            <h1>STM-054: Running on Fumes: Preventing Out-of-Gas Vulnerabilities in Ethereum Smart Contracts using Static Resource Analysis</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Albert, Elvira and Gordillo, Pablo and Rubio, Albert and Sergey, Ilya
+            </pre>
 
             </body>
             </html>

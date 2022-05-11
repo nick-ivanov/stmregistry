@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-043: STM Registry</title></head>
             <body>
-            <h1>STM-043</h1>
+            <h1>STM-043: SAFEVM: A Safety Verifier for Ethereum Smart Contracts</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Albert, Elvira and Correas, Jes{\'u}s and Gordillo, Pablo and Rom{\'a}n-D{\'\i}ez, Guillermo and Rubio, Albert
+            </pre>
 
             </body>
             </html>

@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-052: STM Registry</title></head>
             <body>
-            <h1>STM-052</h1>
+            <h1>STM-052: MPro: Combining Static and Symbolic Analysis for Scalable Testing of Smart Contract</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Zhang, William and Banescu, Sebastian and Pasos, Leonardo and Stewart, Steven and Ganesh, Vijay
+            </pre>
 
             </body>
             </html>

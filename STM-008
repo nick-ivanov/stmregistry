@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-008: STM Registry</title></head>
             <body>
-            <h1>STM-008</h1>
+            <h1>STM-008: Sereum: Protecting Existing Smart Contracts Against Re-Entrancy Attacks</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Rodler, Michael and Li, Wenting and Karame, Ghassan O and Davi, Lucas
+            </pre>
 
             </body>
             </html>

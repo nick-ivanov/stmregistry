@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-021: STM Registry</title></head>
             <body>
-            <h1>STM-021</h1>
+            <h1>STM-021: ReGuard: Finding Reentrancy Bugs in Smart Contracts</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Liu, Chao and Liu, Han and Cao, Zhao and Chen, Zhong and Chen, Bangdao and Roscoe, Bill
+            </pre>
 
             </body>
             </html>

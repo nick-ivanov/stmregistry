@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-031: STM Registry</title></head>
             <body>
-            <h1>STM-031</h1>
+            <h1>STM-031: Writing Safe Smart Contracts in Flint</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Schrans, Franklin and Eisenbach, Susan and Drossopoulou, Sophia
+            </pre>
 
             </body>
             </html>

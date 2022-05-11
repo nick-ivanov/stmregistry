@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-088: STM Registry</title></head>
             <body>
-            <h1>STM-088</h1>
+            <h1>STM-088: Compositional Security for Reentrant Applications</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Cecchetti, Ethan and Yao, Siqiu and Ni, Haobin and Myers, Andrew C
+            </pre>
 
             </body>
             </html>

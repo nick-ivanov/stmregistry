@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-076: STM Registry</title></head>
             <body>
-            <h1>STM-076</h1>
+            <h1>STM-076: Echidna: Effective, Usable, and Fast Fuzzing for Smart Contracts</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Grieco, Gustavo and Song, Will and Cygan, Artur and Feist, Josselin and Groce, Alex
+            </pre>
 
             </body>
             </html>

@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-095: STM Registry</title></head>
             <body>
-            <h1>STM-095</h1>
+            <h1>STM-095: CONFUZZIUS: A Data Dependency-Aware Hybrid Fuzzer for Smart Contracts</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Ferreira Torres, Christof and Iannillo, Antonio Ken and Gervais, Arthur and others
+            </pre>
 
             </body>
             </html>

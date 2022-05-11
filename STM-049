@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-049: STM Registry</title></head>
             <body>
-            <h1>STM-049</h1>
+            <h1>STM-049: NeuCheck: A more practical Ethereum smart contract security analysis tool</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Lu, Ning and Wang, Bin and Zhang, Yongxin and Shi, Wenbo and Esposito, Christian
+            </pre>
 
             </body>
             </html>

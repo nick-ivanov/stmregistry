@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-068: STM Registry</title></head>
             <body>
-            <h1>STM-068</h1>
+            <h1>STM-068: ModCon: A Model-Based Testing Platform for Smart Contracts</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Liu, Ye and Li, Yi and Lin, Shang-Wei and Yan, Qiang
+            </pre>
 
             </body>
             </html>

@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-120: STM Registry</title></head>
             <body>
-            <h1>STM-120</h1>
+            <h1>STM-120: Visual Emulation for Ethereum’s Virtual Machine</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Norvill, Robert and Pontiveros, Beltran Borja Fiz and State, Radu and Cullen, Andrea
+            </pre>
 
             </body>
             </html>

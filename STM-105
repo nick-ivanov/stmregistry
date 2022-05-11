@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-105: STM Registry</title></head>
             <body>
-            <h1>STM-105</h1>
+            <h1>STM-105: HFContractFuzzer: Fuzzing Hyperledger Fabric Smart Contracts for Vulnerability Detection</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Ding, Mengjie and Li, Peiru and Li, Shanshan and Zhang, He
+            </pre>
 
             </body>
             </html>

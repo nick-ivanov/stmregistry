@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-038: STM Registry</title></head>
             <body>
-            <h1>STM-038</h1>
+            <h1>STM-038: Detecting Nondeterministic Payment Bugs in Ethereum Smart Contracts</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Wang, Shuai and Zhang, Chengyu and Su, Zhendong
+            </pre>
 
             </body>
             </html>

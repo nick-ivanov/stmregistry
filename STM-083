@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-083: STM Registry</title></head>
             <body>
-            <h1>STM-083</h1>
+            <h1>STM-083: RA: Hunting for Re-Entrancy Attacks in Ethereum Smart Contracts via Static Analysis</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Chinen, Yuchiro and Yanai, Naoto and Cruz, Jason Paul and Okamura, Shingo
+            </pre>
 
             </body>
             </html>

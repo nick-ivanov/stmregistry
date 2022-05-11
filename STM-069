@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-069: STM Registry</title></head>
             <body>
-            <h1>STM-069</h1>
+            <h1>STM-069: Harvey: A Greybox Fuzzer for Smart Contracts</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            W{\"u}stholz, Valentin and Christakis, Maria
+            </pre>
 
             </body>
             </html>

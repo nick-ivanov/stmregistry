@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-045: STM Registry</title></head>
             <body>
-            <h1>STM-045</h1>
+            <h1>STM-045: SolidityCheck : Quickly Detecting Smart Contract Problems Through Regular Expressions</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Zhang, Pengcheng and Xiao, Feng and Luo, Xiapu
+            </pre>
 
             </body>
             </html>

@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-028: STM Registry</title></head>
             <body>
-            <h1>STM-028</h1>
+            <h1>STM-028: Towards Verifying Ethereum Smart Contract Bytecode in Isabelle/HOL</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Amani, Sidney and B{\'e}gel, Myriam and Bortin, Maksym and Staples, Mark
+            </pre>
 
             </body>
             </html>

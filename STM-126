@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-126: STM Registry</title></head>
             <body>
-            <h1>STM-126</h1>
+            <h1>STM-126: SmartInspect: Solidity Smart Contract Inspector</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Bragagnolo, Santiago and Rocha, Henrique and Denker, Marcus and Ducasse, St{\'e}phane
+            </pre>
 
             </body>
             </html>

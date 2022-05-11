@@ -11,9 +11,12 @@ with open('raw_data.csv') as csvfile:
             <html>
             <head><title>{row[0]}: STM Registry</title></head>
             <body>
-            <h1>{row[0]}</h1>
+            <h1>{row[0]}: {row[1]}</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            {row[2]}
+            </pre>
 
             </body>
             </html>""")

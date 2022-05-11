@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-108: STM Registry</title></head>
             <body>
-            <h1>STM-108</h1>
+            <h1>STM-108: EXGEN: Cross-platform, Automated Exploit Generation for Smart Contract Vulnerabilities</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Jin, Ling and Cao, Yinzhi and Chen, Yan and Zhang, Di and Campanoni, Simone
+            </pre>
 
             </body>
             </html>

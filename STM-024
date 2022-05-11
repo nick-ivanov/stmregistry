@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-024: STM Registry</title></head>
             <body>
-            <h1>STM-024</h1>
+            <h1>STM-024: Lolisa: Formal Syntax and Semantics for a Subset of the Solidity Programming Language in Mathematical Tool Coq</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Yang, Zheng and Lei, Hang
+            </pre>
 
             </body>
             </html>

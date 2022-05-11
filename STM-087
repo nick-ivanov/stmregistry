@@ -2,9 +2,12 @@
             <html>
             <head><title>STM-087: STM Registry</title></head>
             <body>
-            <h1>STM-087</h1>
+            <h1>STM-087: SmartPulse: Automated Checking of Temporal Properties in Smart Contracts</h1>
 
-            <p></p>
+            <h2>Authors</h2>
+            <pre>
+            Stephens, Jon and Ferles, Kostas and Mariano, Benjamin and Lahiri, Shuvendu and Dillig, Isil
+            </pre>
 
             </body>
             </html>
