@@ -6,7 +6,10 @@ with open('raw_data.csv') as csvfile:
     for row in reader:
         print(row[0])
         print("----")
-        with open(row[0], "w") as stmfile:
+        if row[0] == 'STM ID':
+            continue
+        
+        with open(row[0] + ".html", "w") as stmfile:
             stmfile.write(f"""<!DOCTYPE html>
             <html>
             <head><title>{row[0]}: STM Registry</title></head>
