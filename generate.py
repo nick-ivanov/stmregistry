@@ -14,11 +14,26 @@ with open('raw_data.csv') as csvfile:
             <html>
             <head><title>{row[0]}: STM Registry</title></head>
             <body>
-            <h1>{row[0]}: {row[1]}</h1>
+            <h1>{row[0]}</h1>
 
             <h2>Authors</h2>
             <pre>
             {row[2]}
+            </pre>
+
+            <h2>Venue and Year</h2>
+            <pre>
+            {row[5]}, {row[3]}
+            </pre>
+
+            <h2>Original Work</h2>
+            <pre>
+            <a href='{row[6]}'>{row[1]}</a>
+            </pre>
+
+            <h2>Original Work</h2>
+            <pre>
+            <a href='{row[6]}'>{row[1]}</a>
             </pre>
 
             </body>
