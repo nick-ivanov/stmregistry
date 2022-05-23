@@ -36,6 +36,16 @@ with open('raw_data.csv') as csvfile:
             {row[9]}
             </pre>
 
+            <h2>Core Method(s)</h2>
+            <pre>
+            {row[10]}
+            </pre>
+
+            <h2>Input-Output Mapping</h2>
+            <pre>
+            {row[11].replace(">", "&gt;")}
+            </pre>
+
             </body>
             </html>""")
     
