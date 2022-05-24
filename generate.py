@@ -46,6 +46,11 @@ with open('raw_data.csv') as csvfile:
             {row[11].replace(">", "&gt;")}
             </pre>
 
+            <h2>Targeted Contracts</h2>
+            <pre>
+            {row[12]}
+            </pre>
+
             </body>
             </html>""")
     
