@@ -51,6 +51,11 @@ with open('raw_data.csv') as csvfile:
             {row[12]}
             </pre>
 
+            <h2>Threat Model</h2>
+            <pre>
+            {row[13]}
+            </pre>
+
             </body>
             </html>""")
     
