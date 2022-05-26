@@ -52,9 +52,16 @@ with open('raw_data.csv') as csvfile:
             </pre>
 
             <h2>Threat Model</h2>
+            <i>Vulnerable contract, malicious contract, or both</i>
             <pre>
             {row[13]}
             </pre>
+
+            <h2>Targeted Vulnerabilities</h2>
+            <pre>
+            {row[14]}
+            </pre>
+
 
             </body>
             </html>""")
