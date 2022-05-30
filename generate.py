@@ -1,6 +1,7 @@
 # Draft. Not final yet.
 
 stms = []
+names = []
 
 import csv
 with open('raw_data.csv') as csvfile:
@@ -10,6 +11,7 @@ with open('raw_data.csv') as csvfile:
             continue
         
         stms.append(row[0])
+        names.append(row[8])
 
         with open(row[0] + ".html", "w") as stmfile:
             stmfile.write(f"""<!DOCTYPE html>
@@ -79,8 +81,8 @@ header = """
 
 body = "<ul>\n"
 
-for x in stms:
-    body += f"""<li><a href="{x}.html">{x}</a></li>\n"""
+for i in range(len(stms)):
+    body += f"""<li><a href="{stms[i]}.html">{stms[i]}: {names[i]}</a></li>\n"""
 
 body += "</ul>\n"
 
