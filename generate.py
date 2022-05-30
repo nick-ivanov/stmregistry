@@ -1,14 +1,16 @@
 # Draft. Not final yet.
 
+stms = []
+
 import csv
 with open('raw_data.csv') as csvfile:
     reader = csv.reader(csvfile)
     for row in reader:
-        print(row[0])
-        print("----")
         if row[0] == 'STM ID':
             continue
         
+        stms.append(row[0])
+
         with open(row[0] + ".html", "w") as stmfile:
             stmfile.write(f"""<!DOCTYPE html>
             <html>
@@ -65,4 +67,29 @@ with open('raw_data.csv') as csvfile:
 
             </body>
             </html>""")
-    
+
+
+header = """
+<!DOCTYPE html>
+<html>
+    <head><title>STM Registry</title></head>
+    <body>
+        <h1>STM Registry</h1>
+"""
+
+body = "<ul>\n"
+
+for x in stms:
+    body += f"""<li><a href="{x}.html">{x}</a></li>\n"""
+
+body += "</ul>\n"
+
+footer = """
+    </body>
+</html>
+"""
+
+total = header + body + footer
+
+with open("index.html", "w") as indexfile:
+    indexfile.write(total)
