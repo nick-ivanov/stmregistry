@@ -77,6 +77,19 @@ header = """
     <head><title>STM Registry</title></head>
     <body>
         <h1>STM Registry</h1>
+
+
+<p>
+This website is an open-source, non-profit, regularly updated online registry for smart contract threat mitigation (STM Registry).
+</p>
+
+<p>
+Contact e-mail: ivanovn1 [at] msu [dot] edu
+</p>
+
+<p>
+We welcome suggestions and corrections.
+</p>
 """
 
 body = "<ul>\n"
@@ -87,6 +100,8 @@ for i in range(len(stms)):
 body += "</ul>\n"
 
 footer = """
+<hr noshade>
+<p style="text-align: center; color: grey; font-size: 0.7em;">This website does <b>not</b> use any cookies or analytics, and it does <b>not</b> collect any data about its visitors. User privacy matters!</p>
     </body>
 </html>
 """
