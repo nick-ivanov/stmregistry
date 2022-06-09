@@ -18,6 +18,9 @@ with open('raw_data.csv') as csvfile:
             <html>
             <head><title>{row[0]}: STM Registry</title></head>
             <body>
+
+            <a href="index.html">&lt;&lt;&lt; BACK &lt;&lt;&lt;</a> <br />
+
             <h1>{row[0]}: {row[8]}</h1>
 
             <h2>Authors</h2>
