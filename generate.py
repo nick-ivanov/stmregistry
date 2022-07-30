@@ -16,7 +16,9 @@ with open('raw_data.csv') as csvfile:
         with open(row[0] + ".html", "w") as stmfile:
             stmfile.write(f"""<!DOCTYPE html>
             <html>
-            <head><title>{row[0]}: STM Registry</title></head>
+            <head><title>{row[0]}: STM Registry</title>
+            <link href = "bootstrap-5.2.0-beta1-dist/css/bootstrap.min.css" rel = "stylesheet">
+            </head>
             <body>
 
             <a href="index.html">&lt;&lt;&lt; BACK &lt;&lt;&lt;</a> <br />
